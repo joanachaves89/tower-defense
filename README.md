@@ -1,5 +1,6 @@
 # GameWeek
 
+![Thumbnail](https://github.com/joanachaves89/tower-defense/blob/main/Img/Screenshot%202023-09-21%20at%2010.02.23.png)
 
 
 ## Getting started
